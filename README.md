@@ -622,9 +622,9 @@ If you need direct support you can contact us at [info@bridgecrew.io](mailto:inf
 |  4 | CKV_SECRET_6 | /azure/sql.tf     | a57ae0fe47084bc8a05f69f3f8083896f8b437b0 | Base64 High Entropy String | https://docs.bridgecrew.io/docs/git_secrets_6 |
 
 ---
-
 [default]
-aws_access_key_id = AKIAUM4G6O6NCJAR2RUF
-aws_secret_access_key = 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
+aws_access_key_id = AKIAUM4G6O6NMG4JGP7X
+aws_secret_access_key = 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
 output = json
 region = us-east-2
+

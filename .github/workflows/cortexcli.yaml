@@ -1,4 +1,4 @@
-
+# Cortexcli run through github actions
 name: Cortex CLI Code Scan
 
 on:
